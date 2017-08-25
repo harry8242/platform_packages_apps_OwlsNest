@@ -13,7 +13,7 @@ import android.text.TextUtils;
 
 import com.android.settings.dashboard.SummaryLoader;
 import com.android.settings.display.ThemePreference;
-
+import com.android.settings.PreviewSeekBarPreferenceFragment;
 import com.android.internal.logging.MetricsProto.MetricsEvent;
 
 import com.android.settings.R;
